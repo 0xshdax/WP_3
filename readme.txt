@@ -1,104 +1,345 @@
-=== Complianz - Terms and Conditions ===
-Contributors: RogierLankhorst, aahulsebos, leonwimmenhoeve, paapst
-Tags: terms, conditions, webshop, legal, terms and conditions
-Requires at least: 5.0
-License: GPL3
-Requires PHP: 7.2
-Tested up to: 6.8
-Stable tag: 1.2.8
+=== Newsletters, Email Marketing, SMS and Popups by Omnisend ===
+Plugin Name: Newsletters, Email Marketing, SMS and Popups by Omnisend
+Contributors: Omnisend
+Tags: email marketing, marketing, newsletter, sms, form
+Requires at least: 4.7.0
+Tested up to: 6.7
+Requires PHP: 7.4
+Stable tag: 1.7.7
+License: GPLv3 or later
+URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Configure your own Terms and Conditions specific to your service or webshop.
+Newsletters, Email Marketing, Email Automation, Forms, Pop Up, SMS by Omnisend
 
-== Description ==
-Complianz - Terms and Conditions is a stand-alone plugin from Complianz. A simple, but in-depth wizard will configure a Terms and Conditions page for your website or for those of your clients.
+== DESCRIPTION ==
 
-== Features ==
-* A simple but in-depth wizard to configure the Terms & Conditions specified to your needs or the needs of your clients.
-* Includes specific paragraphs for affiliate marketing, WooCommerce or Easy Digital Downloads, digital and physical goods and services, and other variables.
-* Optional are sections about minimum age requirements, a return policy, accessibility policy and user created content, for example.
-* A full-featured Terms & Conditions applicable to most businesses and personal endeavours, and available for editing if needed.
-* Can be used stand-alone or fully integrated with the Complianz - GDPR/CCPA Cookie Consent plugin.
+= POWERFUL, YET INTUITIVE EMAIL MARKETING, NEWSLETTER, SMS MARKETING & AUTOMATION PLUGIN FOR YOUR WORDPRESS WEBSITE. =
+= IF YOU USE WOOCOMMERCE TO SELL STUFF ONLINE, CLICK <a href="https://wordpress.org/plugins/omnisend-connect/">HERE</a> TO DOWNLOAD OUR PLUGIN BUILT SPECIFICALLY FOR WOOCOMMERCE. =
 
-Are you missing anything or have suggestions? Leave an issue, or do a pull request on [GitHub](https://github.com/Really-Simple-Plugins/complianz-terms-conditions).
+Email Marketing by Omnisend lets you use the power of email marketing and newsletters to connect with your audience like never before.
 
-Check out other plugins developed by Really Simple Plugins: [Complianz - GDPR/CCPA Cookie Consent](https://wordpress.org/plugins/complianz-gdpr/), [Really Simple SSL](https://wordpress.org/plugins/really-simple-ssl/) & [Burst Statistics](https://wordpress.org/plugins/burst-statistics/).
+More than 150,000 brands worldwide trust Omnisend to turn visitors into subscribers with signup forms and landing pages, send beautifully designed emails, manage customer relationships, and more.
 
-[Contact](https://complianz.io/support/) us if you have any questions, issues, or suggestions. Complianz - Terms & Conditions is developed by [Complianz B.V.](https://complianz.io).
+With its powerful integration capabilities, Email Marketing by Omnisend works seamlessly with popular WordPress form plugins, letting you make your messages even more relevant and engaging.
 
-= Installation =
-* Go to “plugins” in your Wordpress Dashboard, and click “add new”
-* Upload the downloaded .zip file and activate the plugin
-* Navigate to Tools -> Terms and Conditions and follow the instructions
-* If you already have Complianz GDPR/CCPA Cookie Consent installed: Please visit Complianz -> Terms and conditions.
+Whether you’re a blogger, an event organizer, or a small business owner, Omnisend offers everything you need to capture your audience’s attention and keep them coming back for more — all directly from your WordPress dashboard.
 
-IMPORTANT! Complianz - Terms and Conditions can help you meet compliance requirements, but you as the user must nonetheless ensure that you have all the necessary configurations in place.
+Best of all, it’s completely free to get started!
 
-== Frequently Asked Questions ==
-= Knowledgebase =
-Complianz maintains a continuously growing knowledgebase on privacy and legal matters on [complianz.io](https://complianz.io)
-= Can I translate the Terms and Conditions? =
-The pages are [fully translatable](https://complianz.io/translating-terms-conditions/), but come standard in many languages. The Terms & Conditions will default to your WordPress language. For multiple languages you can use WPML, Polylang and other translation plugins. To translate directly to your language, help us out as an editor or translate locally with Loco Translate for example.
-= Can I edit the Terms and Conditions? =
-You can always go back to the wizard to adjust your configuration. You can also edit the text by [unsynching with the wizard](https://complianz.io/editing-terms-conditions/) in the right colum of Gutenberg or Classic Editor.
-= Can I style the Terms and Conditions? =
-The Terms & Conditions have their own [CSS classes](https://complianz.io/styling-terms-conditions/), but by default will be styled by your theme's settings.
-= What are Terms and Conditions =
-Terms and Conditions, on the web, also known as Terms of Service or Terms of Use, is an agreement explaining the terms, rules, and guidelines to which a user must agree before entering a contractual relationship with the website owner.
+Some of the features of Omnisend include:
 
-== Change log ==
-= 1.2.8 =
-* May 7th 2024
-* Improvement: changed email obfuscation to use core WordPress functionality
+**Email campaigns & newsletters**
 
-= 1.2.7 =
-* September 26th 2023
-* Improvement: change 'countries' into 'jurisdiction'
+* Build beautiful emails and newsletters using our intuitive drag-and-drop editor
+* Send or schedule emails at a future date and time, and track your results in real time
+* Use customer data to segment and target your campaigns to the right audience at the right time by creating segments based on behavior, demographics, purchase history, and more
+* Test different subject lines, content, and designs to see what works best for your audience
+* Get insights into your campaigns with detailed reporting and analytics to see how many people opened, clicked, and converted from your emails
+* Set up automated campaigns that trigger based on customer behavior: Welcome new subscribers, congratulate your subscribers on their birthdays, send browse abandonment emails, and more
 
-= 1.2.6 =
-* September 5th 2023
-* Fix: Block Editor dropping styles in unsynced mode
-* Improvement: Custom Withdrawal Form default on 'no'
+**Integrated opt-in forms**
 
-= 1.2.5 =
-* Improvement: WordPress tested up to 6.3
-* Improvement: MPDF library update for PHP version support
+* Create and use opt-in forms right from Omnisend, and for more advanced forms, use our integrations with popular form builders, such as Contact Form 7, Formidable Forms, Gravity Forms, and Ninja Forms
+* Segment your users based on different form submissions or submitted data
 
-= 1.2.4 =
-* Improvement: Bitnami compatibility
-* Improvement: compatibility with Loco Translate
+**SMS marketing**
 
-= 1.2.3 =
-* New: Adjustment to Burst Statistics upgrade recommendation
+* Collect phone numbers and consent to send SMS messages with our customizable opt-in forms
+* Set up and send SMS campaigns to engage customers with mobile messaging
+* Get insights into your SMS campaigns — see how many people read, clicked, and converted from your texts
 
-= 1.2.2 =
-* Fix: Hyperlinks
+**Built-in analytics & dashboards**
 
-= 1.2.0 =
-* New: branding update
+* See how your signup forms perform right from the Omnisend dashboard with graphs, charts, and data widgets
+* Track every marketing email and signup for to get in-detail metrics
 
-= 1.1.5 =
-* Fix: when selecting another communications language in the wizard, then the current active language, both languages would show up instead of just the selected
-* Improvement: Cookie Policy en Privacy Statement URLs translatable
-* Improvement: own withdrawal form
+**Even more features**
 
-= 1.1.4 =
-* Fix: inconsistent result when using 16 as minimum age
-* Fix: support for symlinked configurations
-* Improvement: small textual changes
+* Turn your website visitors into subscribers with our website signup forms
+* Double opt-in feature for getting quality leads
+* Find out which contacts are becoming unengaged and optimize your email campaigns accordingly
 
-= 1.1.3 =
-* Minor bug fixes
-* Tested up to 6.1
+**Fully GDPR ready**
 
-= 1.1.2 =
-* Fix: not declared variable in combination with Complianz integration
+Omnisend is a self-hosted WordPress plugin. You own your data, and it is protected with the latest security standards. Our platform is fully GDPR compliant, so you can be confident that your customers’ data is being collected and used in a responsible way.
 
-= 1.1.1 =
-* Requires PHP version upgraded to 7.2
-* Fix: shortcode suggestion on dashboard
+**Drive engagement with Omnisend**
 
-== Upgrade notice ==
-* Please create a back-up before updating.
+Omnisend is an email marketing platform designed to help you drive engagement. Built by a team of experienced developers with a passion for email, Omnisend has been a top choice for marketers across the globe for over 10 years. Omnisend started in 2014 as an email marketing platform called Soundest. From day one, we made it our priority to put marketers at the center of every decision we’d make — and that hasn’t changed at all.
+Join thousands of happy customers and start driving engagement with Omnisend today.
+
+
+**Form integration**
+
+Add Omnisend’s signup forms to your WordPress website in a few clicks and automatically add new subscribers to your Omnisend account. You can also integrate Omnisend with apps like Contact Form 7, Formidable Forms, Gravity Forms, and Ninja Forms to power up your signup forms even more.
+
+**Easy to use**
+
+Omnisend’s plugin is intuitive, with a user-friendly interface that allows you to create and manage email campaigns in minutes. With Omnisend’s plugin, you can take your email marketing to the next level.
+
+Discover apps that’ll help you turn more visitors into loyal subscribers.
+* Ninja forms
+* Gravity forms
+* Formidable forms
+* Contact form 7
+* WS Form
+* WP Fusion
+
+== REQUIREMENTS ==
+
+None.
+
+== FAQ ==
+
+= Installation instructions =
+
+Will be updated support article here.
+
+= What are the technical requirements for the plugin installation? =
+* PHP 7.4+
+* WordPress 4.0.1+
+* Omnisend account
+
+= How can I reach Omnisend support? =
+Every Omnisend customer gets our award-winning support, 24/7—even on the free plan. Email support@omnisend.com or use the live chat option within your account. We also have a comprehensive  [Knowledge Base](https://support.omnisend.com/).
+
+= Where can I find Omnisend Terms? =
+Read Omnisend [Terms of Use](https://www.omnisend.com/terms)
+
+= How can I report security bugs?
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/omnisend)
 
 == Screenshots ==
-1. The wizard. Generate your Terms & Conditions with the wizard from Complianz.
+
+1. Build beautiful campaigns using our email templates
+2. Drive revenue round the clock and recover sales with pre-built automated workflows
+3. Send emails, newsletters & SMS campaigns
+4. Access all features on the generous free-forever plan
+5. Grow your audience with popups incl exit-intent, signup forms & spin-to-win
+6. Fast support, available 24/77. Actionable insights to help create more personalized messages
+7. Convert more visitors with highly-targeted landing pages
+
+== Changelog ==
+
+= 1.7.7 =
+
+* Improve connection flow
+
+= 1.7.6 =
+
+* Update description and screenshots
+
+= 1.7.5 =
+
+* Small improvements
+
+= 1.7.4 =
+
+* Update screenshots
+
+= 1.7.3 =
+
+* Unit tests update
+
+= 1.7.2 =
+
+* Fix security issues
+
+= 1.7.1 =
+
+* SDK changes including:
+* Enable to send batch request
+* Enable to interaction with products (including categories)
+
+= 1.6.3 =
+
+* Update description and screenshots
+
+= 1.6.2 =
+
+* Update tested Wordpress version
+
+= 1.6.1 =
+
+* Fixed version
+
+= v1.6.0 =
+
+* Add ability to connect PHP store to Omnisend
+
+= 1.5.5 =
+
+* Fix issues with contact retrieval
+
+= 1.5.4 =
+
+* Fix phone parsing
+
+= 1.5.3 =
+
+* Add new plugins
+
+= 1.5.2 =
+
+* Minor improvements suggested by linter
+
+= 1.5.1 =
+
+* Update supported php version
+
+= 1.5.0 =
+
+* Improve SDK client
+* Added new functionality for save contact and get contact by email
+* Deprecate create_contact
+
+= 1.4.1 =
+
+* Add new plugins
+
+= 1.4.0 =
+
+* Add support for customer events via SDK
+
+= 1.3.26 =
+
+* Fix connecting for Woo brands
+
+= 1.3.25 =
+
+* Bug fix
+
+= 1.3.24 =
+
+* Fix notices visibility scope
+
+= 1.3.23 =
+
+* Update links
+
+= 1.3.22 =
+
+* Add landing page video
+
+= 1.3.21 =
+
+* Bug fixes & Improvements
+
+= 1.3.20 =
+
+* Notice update
+
+= 1.3.19 =
+
+* Fix multisite issue
+
+= 1.3.18 =
+
+* Update notices logic
+
+= 1.3.17 =
+
+* Minor changes
+
+= 1.3.16 =
+
+* Update plugin name in plugins list
+
+= 1.3.15 =
+
+* Minor bugfixes
+
+= 1.3.14 =
+
+* Update logo, name, notification
+
+= 1.3.13 =
+
+* Update icon color
+
+= 1.3.12 =
+
+* Minor bug fixes
+
+= 1.3.11 =
+
+* Add add-ons page
+
+= 1.3.10 =
+
+* Update landing page
+
+= 1.3.9 =
+
+* Add Patchstack security vulnerability disclosure program link to faq
+
+= 1.3.8 =
+
+* Revert link to WooCommerce plugin
+
+= 1.3.7 =
+
+* Add Omnisend landing page
+* Update Omnisend for Woocommerce link
+* Update registration link
+
+= 1.3.6 =
+
+* Fix link
+
+= 1.3.5 =
+
+* Update description
+
+= 1.3.4 =
+
+* Fix broken link
+
+= 1.3.3 =
+
+* Update plugin name and tag
+
+= 1.3.2 =
+
+* Update link to Omnisend WP store connection flow, update banner
+
+= 1.3.1 =
+
+* Add message for WooCommerce plugin
+
+= 1.3.0 =
+
+* Sync WordPress users as contacts to Omnisend.
+
+= 1.2.1 =
+
+* Improve SDK client.
+
+= 1.2.0 =
+
+* Improve SDK client
+
+= 1.1.4 =
+
+* Improve connection messages
+
+= 1.1.3 =
+
+* Update build process
+
+
+= 1.1.2 =
+
+* Update URL in plugin admin.
+
+= 1.1.1 =
+
+* Minor bug fixes.
+
+= 1.1.0 =
+
+* Added version tracking. Fixed minor bugs.
+
+= 1.0.0 =
+
+* Initial release.
