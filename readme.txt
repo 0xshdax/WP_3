@@ -1,343 +1,228 @@
-=== Photo Gallery, Sliders, Proofing and Themes - NextGEN Gallery ===
-Contributors: photocrati, imagely
-Tags: gallery, wordpress gallery plugin, photo gallery, image gallery, slideshow
-Requires at least: 5.5.4
-Stable tag: 3.59.12
+=== Minimal Coming Soon – Coming Soon Page ===
+Contributors: WebFactory
+Tags: coming soon, coming soon page, maintenance mode, coming soon mode, coming soon builder
+Requires at least: 4.0
+Requires PHP: 5.2
 Tested up to: 6.8
+Stable tag: 2.43
 License: GPLv3
-Requires PHP: 7.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-The most popular gallery plugin that lets you create galleries and albums in seconds.
+Minimal Coming Soon & Maintenance Mode page! Create awesome Coming Soon Pages in seconds.
 
 == Description ==
+The <a href="https://comingsoonwp.com/">Minimal Coming Soon & Maintenance Mode</a> plugin allows you to **quickly & easily** set up a **Coming Soon Page, Maintenance Mode Page**, Landing Page or Launch Page for your website. It's best to start any new site with a Coming Soon page and collect leads from day one!
 
-= WordPress Gallery Plugin =
+Minimal Coming Soon plugin is simple & flexible and works with any WordPress theme & plugin. You'll have full control over the frontend of the website and can modify almost every aspect of the Coming Soon or Maintenance Mode page per your needs. Easily connect with MailChimp API so that you can **collect emails** from visitors and it's fully GDPR compliant. A perfect Coming Soon Page done in minutes!
 
-NextGEN Gallery has been the industry's standard **WordPress gallery plugin** since 2007 and continues to receive over 1.5 million new downloads per year. It's easy to use for simple photo galleries, but powerful enough for the most demanding photographers, visual artists, and imaging professionals who need a comprehensive photo gallery solution.
+Having **problems with SSL**? Moving a site from HTTP to HTTPS? Install our free <a href="https://wordpress.org/plugins/wp-force-ssl/">WP Force SSL</a> plugin. It’s a great way to fix all SSL problems.
 
-NextGEN Gallery offers complete WordPress gallery management with the ability to batch upload photos, import metadata, easily add, delete, rearrange photos and create an unlimited number of galleries. You can even simply provide a zip file or choose a folder to upload photos.
+[youtube https://www.youtube.com/watch?v=ux4Qj46pihg]
 
-But our photo gallery plugin doesn't stop there!
+You can collect leads and subscribers on your Coming Soon Page via the Mailchimp integration. It allows you to expand your audience from the moment your coming soon page is up. If you need to connect to any other autoresponder services check out the <a href="https://comingsoonwp.com/">PRO version</a>.
 
-> <strong>NextGEN Pro</strong><br/>
-> This plugin is the lite version of the NextGEN Gallery plugin, which offers all the gallery features you'll need like photo albums, lightboxes, backups, search, sharing, filtering, print fulfillment, eCommerce, animations,  and tons more. [Click here to purchase the best photo gallery plugin for WordPress now!](https://www.imagely.com?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion)
+= Coming Soon Plugin Features =
 
-The free version of NextGEN gallery provides three main gallery styles (slideshow, thumbnail, and imagebrowser galleries) and two album styles (compact and extended), all of which come with a wide array of options for controlling size, style, timing, transitions, controls, lightbox effects, and more. Learn more about <a href="https://www.imagely.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" target="_blank">NextGEN WordPress Gallery Plugin features.</a>
+* Check out <a href="https://comingsoonwp.com/themes/">350+ themes</a> that come with the PRO version, <a href="https://comingsoonwp.com/image-filters/">26+ Instagram filters</a> and <a href="https://comingsoonwp.com/content-animations/">47+ spectacular content animations</a> for Coming Soon Pages
+* Works with all WordPress themes and plugins
+* Completely customizable look and feel including background color, cover image, fonts, logo
+* Includes <a href="https://comingsoonwp.com/">over five million premium images</a> in PRO version
+* Each and every element of the Coming Soon or maintenance page can be configured
+* Option to preview the Coming Soon or maintenance page before activation
+* <a href="https://comingsoonwp.com/">SEO preview and analysis tools</a> are available in the PRO version to make sure your coming soon site ranks as #1 from day zero
+* Rearrange position of the page elements to your liking - simple drag&drop
+* W3 Total Cache, WP Super Cache, Endurance Page Cache, SiteGround SuperCacher, WP Fastest Cache, Cache Enabler, and Swift Performance Cache support
+* Easily add Custom CSS and HTML
+* Collect Emails with MailChimp on your coming soon page - full GDPR compliant API support built-in for free
+* Plugin is GDPR compatible as it sets no cookies and displays an optional warning below the email field which users have to accept if they want to subscribe to the newsletter
+* You can let search engines view the normal website while visitors see the Coming Soon page
+* Visible to only non-logged-in users so you can build your site while visitors see the Coming Soon page
+* Supports Custom Login URL - works with all custom login plugins
+* Track visitors with support for Google Analytics
+* 7 built-in, local fonts so you don't have to load any external resources
+* Over 800 GDPR Compatible Bunny Fonts available to fit any design
+* PRO version of Coming Soon can redirect to HTTPS version of the site
+* Get support from within the plugin's options panel - send a message directly to support agents, get a response ASAP
+* display a WP login link on the Coming Soon Page
 
-The best gets better with full support for the Gutenberg block editor. Now you can add a photo gallery or album anywhere on your site, with a page builder type feel directly in the WordPress editor. We truly make creating, building, and editing galleries easy.
+= PRO Version Overview =
 
-= Feature List =
-We've built NextGEN Gallery to be extremely powerful and full of features.
+[youtube https://www.youtube.com/watch?v=-bEJ-mPpduM]
 
-* **Albums** Organize multiple photo galleries into albums for easy sorting and viewing
-* **Tags** Group multiple images together with tags, with easy-to-update renaming and management
-* **eCommerce** Sell images from your photo gallery, or sell entire galleries with our built in payment processing. Works with Stripe and PayPal.
-* **Slideshows** Make your galleries automatically rotate through a series of images
-* **Themes** Access 84+ different types of themes to showcase your galleries
-* **Animations** Create visual interest with 25+ different types of animations for each gallery
-* **Watermarks** Protect your work with image and text-based watermarks.
-* **Capabilities** Customize who can read, edit, and publish galleries with refined permsisions controls
-* **Image Proofing** Let your customers choose which photos to purchase and improve your workflow.
-* **Print Fulfillment** Sell your photos and ship prints directly to customers with automated print lab fulfillment and zero commissions
-* **Auto Tax calculations** Automatically calculate sales tax when required for your customers.
-* **Coupons** Offer discounts and incentives to increase your gallery sales
-* **Lightroom Integration** Automatically sync and create photo galleries from Adobe Lightroom into NextGEN Gallery without any need to update your website.
-* **Social Sharing** Create viral social media opportunities when your images are optimized for Open Graph and X
-* **Image Commenting** * Add deep engagement to your images within the lightbox to increase gallery engagement
-* **Deep Linking** Link directly to a specific image from one of your galleries
-* **Frontend Search** * Add powerful filtering for your gallery based on tags
-* **Hover Captions** * Add social sharing, tiles, and descriptions for each image
-* **Digital Downloads** Offer digital downloads of your images for free, or chage for them with our eCommerce gallery plugin
-* **Right Click Disable** prevent images in your galleries from being downloaded with easy right click and drag/drop protection.
-* **Customization** * We've built in lots of individual customizations for each of our features so that you can make NextGEN Gallery perfect for you
-
-As you can see, we've built a photo gallery plugin that is suitable for everyone! Want a specific or missing feature? Just let us know.
-
-
-**NEXTGEN GALLERY DEMOS**<br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/basic-thumbnail-gallery/" target="_blank">Basic Thumbnail Gallery</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/basic-slideshow-gallery/" target="_blank">Basic Slideshow Gallery</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/basic-imagebrowser-gallery/" target="_blank">Basic Imagebrowser Gallery</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/basic-compact-album/" target="_blank">Basic Compact Album</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/basic-extended-album/" target="_blank">Basic List Album</a><br>
-
-**NEXTGEN PRO DEMOS**<br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/pro-ecommerce-demo/" target="_blank">Photo Print Sales</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/pro-proofing-demo/" target="_blank">Photo Proofing</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/digital-download-demo/" target="_blank">Digital Downloads</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/pro-mosaic-gallery/" target="_blank">Pro Mosaic Gallery</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/pro-masonry-gallery/" target="_blank">Pro Masonry Gallery</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/pro-tiled-gallery/" target="_blank">Pro Tile Gallery</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/pro-filmstrip-gallery/" target="_blank">Pro Filmstrip Gallery</a><br>
-*<a href="https://www.imagely.com/wordpress-gallery-plugin/pro-lightbox-demo/" target="_blank">Pro Lightbox</a><br>
-
-= About Imagely =
-
-NextGEN Gallery is a WordPress gallery plugin maintained by Imagely. We're the WordPress photography experts. In addition to NextGEN Gallery, NextGEN Plus, and NextGEN Pro, we also make WordPress themes for photographers, providing beautiful turnkey websites for photographers.
-
-
-Learn more or connect with us:<br>
-*<a href="https://www.imagely.com?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" target="_blank">Imagely Website</a><br>
-*<a href="https://www.imagely.com/wordpress-photography-themes?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" target="_blank">WordPress Themes for Photographers</a><br>
-*<a href="https://www.imagely.com/sites?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" target="_blank">Turnkey Photography Sites</a><br>
-*<a href="https://www.imagely.com/docs/nextgen-gallery?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" target="_blank">NextGEN Gallery Documentation</a><br>
-
-== Credits ==
-
-Copyright: Imagely 2016-2024
+= GDPR compatibility =
+We are not lawyers. Please do not take any of the following as legal advice.
+If you don't opt to use Bunny Fonts, don't use Google Analytics, nor collect emails with some 3rd party service like Mailchimp then no resources are loaded or shared with 3rd parties. And nothing is tracked. Opting to use any of those services will result in data sharing/tracking as described in their terms of service.
+If you opt to activate your PRO license in the plugin admin, some data will be shared with WebFactory Ltd; that’s clearly noted below the license activation form.
 
 == Installation ==
 
-INSTALLATION: The easiest way to start uploading your photos is to login to you WordPress dashboard, go to Plugins > Add New, search for NextGEN Gallery, and click to install the plugin. You can also download the plugin zip file from this page and upload it from the Plugins > Add New > Upload page.
+To manually install the plugin, please do the following:
 
-HOW TO USE: Just go to a page or post and add a NextGEN Gallery block. Within the block, click the Add Gallery button to open our Insert Gallery Window, where you can create, manage, customize, and display your WordPress photo galleries. You can also manage your photo galleries and gallery settings from the central options area under the "Gallery" tab on your dashboard menu.
+1. Upload `minimal-coming-soon-maintenance-mode` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Go to the 'Maintenance Mode' under 'Admin' panel.
+4. Configure the plugin and start using it.
 
-DOCUMENTATION: See <a href="https://www.imagely.com/docs/nextgen-gallery/" target="_blank">NextGEN Gallery Documentation</a>.
-
-That's it ... have fun! For more information, feel free to visit the official website for the NextGEN Gallery <a href="https://www.imagely.com/wordpress-gallery-plugin" target="_blank">WordPress Gallery Plugin</a>.
-
-== Screenshots ==
-
-1. Thumbnail Gallery
-2. Slideshow Gallery
-3. Imagebrowser Gallery
-4. Manage Gallery Page
-5. Insert Gallery Window
-6. Gallery Settings Page
-
-== Shortcodes ==
-
-NextGEN Gallery offers an easy-to-use Insert Gallery Window, which means you never need to work with shortcodes again when inserting and manageing galleries - if you would prefer not too.
-
-If you do want to work with shortcodes, there is a powerful shortcode system as you'd expect of a popular WordPress gallery plugin. <a href="https://www.imagely.com/docs/nextgen-gallery-shortcodes/">Learn About NextGEN Gallery Shortcodes</a>.
-
-For more information, feel free to visit the official website for the NextGEN Gallery <a href="https://www.imagely.com/wordpress-gallery-plugin/" target="_blank">WordPress Gallery Plugin</a>.
 
 == Frequently Asked Questions ==
 
+= Having issues with Coming Soon & Maintenance Mode? =
 
-= Why are my photo galleries not opening up in a lightbox after I move my site? =
+Please use the <a href="https://wordpress.org/support/plugin/minimal-coming-soon-maintenance-mode">support forum</a>. We read it all the time.
 
-This is often due to the URL paths to the CSS and JavaScript files used by the Lightbox Effects not being changed to relevant addresses based on the new site. This article will help sort out this issue if that is the case: <a href="https://www.imagely.com/docs/galleries-opening-lightbox/" target="_blank">Why are my galleries not opening up in a lightbox?</a>.
+= Emails not saving in MailChimp? =
 
+Make sure that the name field in MailChimp (FNAME) is not mandatory. Configure it to an optional one.
 
-= Do you have documentation or tutorials? =
+= Is the Coming Soon & Maintenance Mode WP-MU compatible? =
 
-Yes. See <a href="https://www.imagely.com/docs/" target="_blank">NextGEN Gallery Documentation</a>.
+Yes and no. When activated it enables itself across the entire WP-MU network.
 
-= Will this gallery plugin work with my theme? =
+= How can I report security bugs? =
 
-Yup, NextGEN is a popular and well-established WordPress gallery plugin, and has been for a long time. It will work well with most other themes and plugins in the WordPress ecosystem.
-
-
-= Are the photo galleries flash based? =
-
-Nope, we do not use flash elements.
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/minimal-coming-soon-maintenance-mode)
 
 
-= Are the galleries mobile friendly? =
+== Screenshots ==
 
-Yes, we've put a lot of work into this and, NextGEN Galleries are compatible with phones and tablets, inluding Android and iOS operating systems. All photo galleries are also responsive, so galleries look good on diverse screen sizes. NextGEN Pro also includes a fullscreen, responsive Pro Lightbox with mobile gesture support. It's great for viewing photos on mobile devices.
-
-
-= What is the difference between a gallery and an album? =
-
-In simple terms, Albums are collections of galleries. So Galleries contain your photos and Albums contain your Galleries. Albums act as links and placeholders to quickly and easily navigate your galleries. Galleries will actually display your images.
-
-
-= Can I upload multiple images at once? =
-
-Yes, you can batch upload entire photo galleries at one time or even include zip folders.
-
-
-= Can I password protect galleries? =
-
-Yes, WordPress allows you to password protect pages by default - which includes all photo galleries and content for the entire page. Password protection pages can be turned on and off at any time, with just a few clicks.
-
-
-= Can I add a watermark to the my photos? =
-
-Yes, you can add text or image watermarks to your gallery images.
-
-
-= Can I crop photo thumbnails? =
-
-Yes, each thumbnail image can be individually adjusted to suit your needs.
-
-
-= Is there pagination for photo galleries? =
-
-Yes, you can use pagination when displaying thumbnail galleries. You can adjust the amount of photos to be shown on a page at any time.
-
-
-= Can I customize the lightbox? =
-
-Yes, the lightbox can be configured with multiple options directly from the Dashboard, and there are multiple CSS styles, which can be applied and modified as well. If you want even more options, consider upgrading to NextGEN Pro and using the NextGEN Pro lightbox.
-
-
-= Can I add HTML to photo captions? =
-
-Yes, caption areas are fully HMTL capable.
-
-
-= Can I add an external links to galleries? =
-
-Since the captions are fully HTML capable, you can add external links and any other type of markup you wish.
-
-
-= Is NextGEN Gallery available in foreign languages? =
-
-Yes, our WordPress gallery plugin has been translated into dozens of languages - <a href="https://www.imagely.com/languages/" target="_blank">click here to find out more.</a>
-
-
-= More Information =
-
-For more information, feel free to visit the official website for the NextGEN Gallery <a href="https://www.imagely.com/wordpress-gallery-plugin" target="_blank">WordPress Gallery Plugin</a>.
+1. Fast & intuitive interface lets you create coming soon pages in minutes
+2. Simple maintenance page
+3. Minimal Coming soon page
+4. Fully responsive coming soon page design
+5. Get support from within the coming soon plugin
 
 
 == Changelog ==
-= V3.59.12 - 04.23.2025 =
-* Fixed: Lightbox allowed html discrepancy
+= 2.43 =
+* 2025-08-03
+* updated Google Analytics code
 
-= V3.59.11 - 04.17.2025 =
-* Fixed: SQL formatting error on plugin activation
-* Fixed: Translation warning in some admin pages
+= 2.42 =
+* 2025-01-08
+* minor code fixes
 
-= V3.59.10 - 01.28.2025 =
-* Fixed: Frontend search not working in some cases
+= 2.41 =
+* 2024-12-19
+* minor code fixes
+* new prices
 
-= V3.59.9 - 01.16.2025 =
-* Fixed: Title and caption allowed html tags.
+= 2.40 =
+* 2024-10-13
+* minor code fixes
 
-= V3.59.8 - 01.06.2025 =
-* Fixed: Apostrophes not being added to image title
-* Improved: Fields sanitization
+= 2.39 =
+* 2024-06-07
+* minor security fixes
 
-= V3.59.7 - 12.05.2024 =
-* Fixed: Links and styles on about page
-* Fixed: Readme update
+= 2.38 =
+* 2024-02-04
+* fixed bug allowing bypass of maintenance page
+* various minor bugs fixed
 
-= V3.59.6 - 11.05.2024 =
-* Fixed: Title and captions escaping
-* Added: Onboarding wizard
-* Added: Optional usage tracking
-* Fixed: Blurry images on cropping
+= 2.37 =
+* 2023-09-13
+* fixed footer text overlapping buttons
+* enabled autocomplete for email form fields
 
-= V3.59.5 - 09.24.2024 =
-* Fixed: Improved security
+= 2.36 =
+* 2022-11-20
+* replaced Google Fonts with GDPR compatible Bunny fonts
+* fixed translation issues
+* security issues fixed
 
-= V3.59.4 - 07.18.2024 =
-* Fixed: Warning on WP import file
-* Added: Create gallery nudge
-* Added: Notifications count to the navbar menu
-* Fixed: Duplicated gallery name  in the Gutenberg block
-* Fixed: Gutenberg block not working when adding into the page template
-* Added: Link on the header section logo and make it clickable
-* Fixed: Duplicate thumbnail in basic thumbnails carousel
+= 2.35 =
+* 2022-05-22
+* minor security issue fixed (thank you Automattic for reporting it)
 
-= V3.59.3 - 05.29.2024 =
-* Fixed: Improved transient registration.
-* Fixed: Rendering shortcodes on rest endpoints.
-* Fixed: Album name sanitization.
-* Removed: Deprecated admin notices.
-* Fixed: PHP 8.2 warnings
+= 2.33 =
+* 2021-07-06
+* new background images
+* lower prices
 
-= V3.59.2 - 04.10.2024 =
-* Fixed: Various bugs and improved UI/UX in various places.
+= 2.30 =
+* 2021-06-05
+* security fixes
 
-= V3.59.1 - 04.03.2024 =
-* Fixed: Warning when saving settings.
-* Fixed: Show ordered filenames on order details page.
+= 2.27 =
+* 2021-02-21
+* added support for Cache Enabler plugin
+* code cleanup
 
-= V3.59  - 03.14.2024 =
-* Fixed: URI too long prevents "Sort or exclude images" from loading images.
-* Fixed: Correcting Lightroom clients being unable to sync image .
-* Fixed: Prevent PHP warning / error when watermarking.
-* Fixed: Sorting images from a Classic Editor launched IGW.
-* Fixed: Shutter lightbox randomly failing to load the captions.
-* Fixed: PHP notices and warnings.
-* Fixed: Addressed a bug reported by Dmitrii Ignatyev of Cleantalk.
+= 2.26 =
+* 2021-01-31
+* added fly out menu
 
-= V3.58  - 02.08.2024 =
-* Fixed:   A potential fatal DivisionByZeroError caused by image files being deleted outside of NextGEN.
-* Fixed:   A potential fatal error in the XML-RPC controller.
-* Fixed:   An issue with classic (non-block) themes could break Pro's "Open album children in the Pro Lightbox" feature.
-* Fixed:   Assorted potential PHP notices and warnings.
-* Fixed:   Manage Galleries' "Images per Page" feature was not working.
-* Fixed:   Passing 'gallery_width="auto"' to a Slideshow shortcode could result in a fatal error.
+= 2.25 =
+* 2021-01-13
+* updated Mailchimp API
+* added new coming soon page background images
+* minor fixes
 
-= V3.57  - 01.10.2024 =
-* Fixed:   Albums were generating an incorrect URL to their child galleries.
-* Fixed:   Albums could generate a fatal error when viewing a sub-album.
-* Fixed:   Do not call opcache_reset() if it does not exist.
+= 2.22 =
+* 2020-12-08
+* minor bug fix
 
-= V3.56  - 01.09.2024 =
-* Fixed:   "Open album children in Pro Lightbox" feature was only working with block based themes.
-* Fixed:   Adding more than one Pro display to one page caused galleries after the first to be unstyled.
-* Fixed:   Albums with very a large number of children may have broken gallery displays if it relies on the dynamic-css feature.
-* Fixed:   Continued fixing recently introduced incompatibilies with 3rd party extensions.
-* Fixed:   Creating a new gallery from the Manage Galleries page was just reloading the page.
-* Fixed:   Display Type settings could be forced back to their default settings when upgrading.
-* Fixed:   IIS servers may generate a fatal error searching for an absolute path to template files.
-* Fixed:   Inserting NextGEN singlepic from the Add Media popup was creating an <img> without a src attribute.
-* Fixed:   Possible PHP notices, warnings.
-* Fixed:   Restored the NGG_DISABLE_SHORTCODE_MANAGER constant.
-* Fixed:   Router->fix_page_parameter() generated a warning if the global $post is not an object.
-* Fixed:   The button 'Scan folder for new images' was re-importing existing images.
-* Fixed:   Updating tags via the Manage Tags page did not flush the displayed gallery rendering cache.
+= 2.20 =
+* 2020-10-27
+* removed auto activation for PRO version
 
-= V3.55  - 12.13.2023 =
-* Changed: Changing SweetAlert library version to prevent the interference on .ru sites.
+= 2.19 =
+* 2020-10-11
+* removed MailOptin integration
+* minor fixes
+* added promo for WP 301 Redirects
 
-= V3.54  - 12.01.2023 =
-* Fixed:   Assorted possible PHP warnings and notices with PHP 8.0+.
-* Fixed:   Compatibility with some 3rd party extensions.
+= 2.18 =
+* 2020-08-20
+* bug fixes
 
-= V3.53  - 11.30.2023 =
-* Fixed:   A potential conflict with NextGEN Pro Lightbox.
+= 2.17 =
+* 2020-01-08
+* more security fixes - curtesy of Chloe @ WordFence
 
-= V3.52  - 11.30.2023 =
-* Fixed:   A potential fatal error caused by accessing NextGEN Pro constants before they are defined.
-* Fixed:   Compatibility with ARI Fancy Lightbox & Imagify, both could generate a fatal exception since 3.50.
-* Fixed:   Paths to non-default template files were being calculated incorrectly, causing the incorrect template to display.
-* Fixed:   Some bulk actions in the Manage Gallery page were broken by the last release.
-* Fixed:   Users of PHP 7 and WordPress 5.8 or older could experience a fatal error due to the use of str_contains().
+= 2.15 =
+* 2019-12-25
+* security fixes - many thanks to Chloe @ WordFence
 
-= V3.50  - 11.29.2023 =
-* IMPORTANT: Support for PHP 5.6 and lower has been discontinued. If you are running PHP 5.6 or lower, you MUST upgrade PHP before installing NextGEN 3.5.0. Failure to do that will disable NextGEN core functionality.
-* Updated: Major refactor of the plugin to support future improvements! Note: This release Requires at least PHP 7.0.
-* Fixed:   We closed some issues affecting Lightroom users
+= 2.10 =
+* 2019-11-11
+* minor fixes
+* removed NotificationX integration
 
-= V3.41  - 09.27.2023 =
-* Fixed:   NextGEN 3.39 could generate a fatal error when viewing a gallery hosted on IIS.
-* Fixed:   NextGEN 3.39 could not accept uploads from the LightRoom plugin.
-* Fixed:   NextGEN 3.39 could generate a PHP exception when using custom template paths.
+= 2.07 =
+* 2019-10-09
+* minor fixes
+* added discount for yearly license
 
-= V3.39  - 09.13.2023 =
-* Fixed:   Prevent template files from existing outside of the site document root, WP_CONTENT_DIR, or WP_PLUGIN_DIR
+= 2.05 =
+* 2019-08-08
+* NotificationX integration
 
-= V3.37  - 05.05.2023 =
-* Fixed:   A fatal error was thrown when uploading images' whose 'Flash' EXIF field is an array instead of the integer it should be.
-* Fixed:   Correcting a possible error in our RankMath SEO compatibility.
-* Fixed:   Prevent duplicate entries from being added to the photocrati_cache_tracker transient.
+= 2.01 =
+* 2019-07-31
+* minor fixes
 
-= V3.36  - 05.10.2023 =
-* NEW:     Added support for WP-Sweep so that NextGEN's tags will not be automatically removed.
-* NEW:     Added NextGEN Gallery images to RankMath SEO's sitemaps.
-* Fixed:   A JS error could trigger on the Manage Gallery page in some circumstances.
-* Fixed:   In some specific situations NextGEN Gallery could cause an infinite loop on all pages.
-* Fixed:   Manage Gallery's "Add Page" button used the legacy [nggallery] shortcode.
+= 2.0 =
+* 2019-06-24
+* new option: show login link to WP admin on the Coming Soon page
+* new background images
+* minor fixes
+* 641,300 downloads
 
-= V3.35  - 02.03.2023 =
-* Fixed:   Sites still using PHP 5.6 experience a fatal error due to an incompatibility with the latest version of Composer.
+= 1.95 =
+* 2019-04-30
+* minor fixes
+* new background images
+* 598,580 downloads
 
-= V3.34  - 02.02.2023 =
-* Fixed:   FontAwesome could load SVG font files which broke some Pro Lightbox elements.
+= 1.90 =
+* 2019-02-19
+* 70,000 installs hit on 2019/01/18 with 522,000 downloads
+* minor fixes
+* new coming soon background images
+* 543,500 downloads
 
-= V3.33  - 01.18.2023 =
-* Fixed:   FontAwesome icons were broken by 3.32 if not enqueued by another source.
-
-= V3.32  - 01.11.2023 =
-* NEW:     Added the filter 'ngg_metadata_parse_order'
-* Changed: Now including all CSS & JS resources inside the plugin to avoid GDPR issues.
-* Fixed:   Viewing sub-albums could result in a PHP warning regarding array_pop()
+= 0.1 =
+* 2014-08-03
+* Initial release
+* for a complete changelog please visit <a href="https://comingsoonwp.com/old-changelog.txt">comingsoonwp.com/old-changelog.txt</a>
