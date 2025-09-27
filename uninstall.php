@@ -1,24 +1,30 @@
 <?php
-
 /**
- * File which gets called on plugin uninstall.
- * Since the plugin does not do any sort of setup, nothing is done over here.
+ * Fired when the plugin is uninstalled.
  *
- * @link       http://www.webfactoryltd.com
- * @since      0.1
+ * When populating this file, consider the following flow
+ * of control:
  *
- * Checking whether the file is called by the Wordpress uninstall action or not
- * If not, then exit and prevent unauthorized access
+ * - This method should be static
+ * - Check if the $_REQUEST content actually is the plugin name
+ * - Run an admin referrer check to make sure it goes through authentication
+ * - Verify the output of $_GET makes sense
+ * - Repeat with other user roles. Best directly by using the links/query string parameters.
+ * - Repeat things for multisite. Once for a single site in the network, once sitewide.
+ *
+ * This file may be updated more in future version of the Boilerplate; however, this is the
+ * general skeleton and outline for how the file should work.
+ *
+ * For more information, see the following discussion:
+ * https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/pull/123#issuecomment-28541913
+ *
+ * @link       https://themeisle.com
+ * @since      1.0.0
+ *
+ * @package    Orbit_Fox
  */
 
+// If uninstall not called from WordPress, then exit.
 if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
-	exit();
+	exit;
 }
-
-/* Removing the options from the database. */
-delete_option('signals_csmm_options');
-delete_option('signals_csmm_meta');
-delete_option('csmm_pointers');
-delete_transient('csmm_rate_hide');
-delete_transient('csmm_welcome_hide');
-delete_transient('csmm_olduser_hide');
